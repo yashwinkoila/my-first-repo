@@ -1,2 +1,3 @@
 Hello World. 
 Creating sample file for the GitHub practice.
+Adding more details.
